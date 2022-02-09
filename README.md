@@ -1,2 +1,2 @@
 # SinoptikParser
-Parser Sinoptik and info on Telegrambot
+Parser Sinoptik and drop the weather info on Telegrambot
